@@ -124,7 +124,7 @@ Mirabé haswonderful city views, Julivert Meu and Can Travi Nou is one of the be
 
 ### Mirabé
 
-<iframe src="Mirabe/Mirabe.html frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
+<iframe src="Mirabe/Mirabe.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
 
     Rates per peron: Menu including starters to share + main course + dessert + drinks + coffee, from 53€ VAT inc
 <hr>
