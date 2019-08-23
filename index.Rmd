@@ -1,5 +1,5 @@
 ---
-title: "RESTAURANT PROPOSAL"
+title: "RESTAURANT PROPOSAL 🍷🍽"
 author: "BUSINESS TRAVEL"
 date: 'From September 15th to 20th, 2019'
 output:
@@ -32,109 +32,260 @@ library(timevis)
 
 ```
 
+<br>
+<br>
+<br>
 
-Following you will find some nice restaurant suggestions walking distance from Hotel Barceló Sants but, as it is not a central hotel the restaurant offer in the area is small, that's why I am including a second label with restaurants that are located in other areas of the city but I think it worth to have a bus transfer.
 
-## **Walking Distance restaurants** {.tabset .tabset-fade}
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1ZAv8PHfGZ6L3oa3M9Pry7_Vi1ks-XAvW&hl=es" width="100%" height="480"></iframe>
-
-### Abrassame
-
-<iframe src="Abrassame/Abrassame.html" frameborder="0" width="100%" height="1000" scrolling="no"></iframe>
-
-    Rates per peron: Menu including starters to share + main course + dessert + drinks + coffee, from 45€ VAT inc
-<hr>
-
-### Bodega Monumental
-
-<iframe src="BodegaMonumental/BodegaMonumental.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
-
-    Rates per peron: Menu including starters to share + main course + dessert + drinks + coffee, from 43€ VAT inc
-<hr>
-
-### Quinto Quinta
-
-<iframe src="LaAzoteaQuintoQuinta/LaAzoteadeQuintooQuinta.html" frameborder="0" width="100%" height="1100"></iframe>
-
-    Rates per peron: Menu including starters to share + main course + dessert + drinks + coffee, from 40€ VAT inc
-<hr>
-
-### MinE
-
-I am waiting their answer - I will be able to have an answer by the end of August
-
-    Menus from 44€ VAT inc
-
-### Pan&Oli
-
-I am waiting their answer - I will be able to have an answer next week
-
-*****
-
-## **Non Walking Distance restaurants** {.tabset .tabset-fade}
-
-We would like to suggest some special restaurants, all of them are very good restaurants with something special: the location, the atmosphere, the food...
-
-Mirabé haswonderful city views, Julivert Meu and Can Travi Nou is one of the best traditional catalan food in the city...
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1heyEGf89HtoStiweVys6KHCxItP__4UR&hl=es" width="100%" height="480"></iframe>
-
-### Alba Granados
-
-<iframe src="Alba Granados/AlbaGranados.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
-
-    Rates per peron: Menu including starters to share + main course + dessert + drinks + coffee, from 49€ VAT inc
-<hr>
-
-### Arros i Peix
-
-<iframe src="Arros i peix/ArrosiPeix.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
-
-    Rates per peron: Menu including starters to share + main course + dessert + drinks + coffee, from 51€ VAT inc
-<hr>
-
-### Cal Pinxo Palau de Mar
+# September 16th - Cal Pinxo 
 
 <iframe src="Cal Pinxo Palau de Mar/CalPinxo.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
 
-    Rates per peron: Menu including starters to share + main course + dessert + drinks + coffee, from 52,50€ VAT inc
+## 🍽 Menu Options {.tabset .tabset-fade}
+
+### Menu Atarazanas
+
+    Crunchy aubergine with cane honey and soy
+    
+            Starters for share:
+    Anchovies in Vinegar
+    Seafood croquettes.
+    Our Spanish potato salad
+    Salmon tartar with trout caviar and shitake
+    Baby fried shrimps
+    Catalan tomato bread.
+    -
+    Rice of red shrimp with “fumet” stock
+    -
+    Catalan crème brûlée
+    -
+    White wine Freye (D.O. Penedès)
+    Red Wine Viña Real (D.O. Rioja)
+    Solán de Cabras water
+    Nespresso coffee or tea
+    Bread 
+    
+    Rates per peron: 52€ VAT inc
+    
 <hr>
 
-### Can Travi Nou
+### Menu Pescadores
 
-<iframe src="Can Travi Nou/CanTraviNou.html" frameborder="0" width="100%" height="1100"></iframe>
-
-    Rates per peron: Menu including starters to share + main course + dessert + drinks + coffee, from 54€ VAT inc
+    Welcome glass of cava, with potato, yucca and sweet potato chips
+    
+                    Starters for share:
+    ”Esqueixada” cod salad with black olives
+    ”Escalivada “cold roasted pepper, onion and aubergine salad over flat bread
+    Cod fritters
+    Seafood croquettes.
+    Marinière Mussels casserole with tomato and white wine
+    -
+    Marinière Style rice Paella 
+    or
+    Noodles Paella with clams 
+    or
+    Black rice with squid ink and “all i oli” mayonnaise
+    -
+    Catalan crème brûlée 
+    or
+    Chocolate Brownie with vanilla ice cream 
+    or
+    Fruits skewer
+    -
+    White wine Barbara Forés (D.O. Terra Alta)
+    Red wine Lobo Lover (D.O. Penedés (ECO)
+    Water Solán de Cabras, Nespresso coffee or tea, Bread 
+    
+    Rates per peron: 60€ VAT inc (they can choose the main course on spot)
+    
 <hr>
 
-### Casa Carmen
-
-<iframe src="Casa Carmen/CasaCarmen.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
-
-    Rates per peron: Menu including starters to share + main course + dessert + drinks + coffee, from 55€ VAT inc
-<hr>
-
-### Julivert Meu
-
-<iframe src="Julivert Meu/Julivert.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
-
-    Rates per peron: Menu including starters to share + main course + dessert + drinks + coffee, from 44€ VAT inc
-<hr>
-
-### Mirabé
+# September 17th - Mirabé
 
 <iframe src="Mirabe/Mirabe.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
 
-    Rates per peron: Menu including starters to share + main course + dessert + drinks + coffee, from 53€ VAT inc
+## 🍽 Menu Options {.tabset .tabset-fade}
+
+### Menu 1
+
+    Beet and cottage cheese tart
+    
+    Timbale of roasted vegetables with red pepper sauce and kalamata olive oil.
+    
+    Hake loin confit at low temperature with fried artichokes, romesco sauce and green Mojo.
+    
+    Yogur mousse with red fruit and caramelized nuts
+    
+    Wine, beer, soft drinks and coffees.
+
+    Rates per peron: 53€ VAT inc
+    
 <hr>
 
-## Transfer Rates
+### Menu 2
+
+    Smoked salmon roll with avocado and pineapple.
+    
+    Vegetable ravioli and goat cheese with creamy pesto sauce
+    
+    Lean pork fillet with caramelized onion, roast potatoes and spinach
+    
+    Catalan creme brulee with almond biscuit
+    
+    Wine, beer, soft drinks and coffees.
+
+    Rates per peron: 53€ VAT inc
+    
+<hr>
+
+
+
+# September 18th - Can Travi Nou
+
+<iframe src="Can Travi Nou/CanTraviNou.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
+
+## 🍽 Menu Options {.tabset .tabset-fade}
+
+### Menu de l'Avia
+
+    Fideuá, noodle paella with squid, mussels and prawns with alioli
+    ***
+    Toasted flat bread with tomato and olive oil
+    ***
+    Suckling pig knuckle cooked at low temperature with rosemary scented potatoes
+    ***
+    Black forest chocolate cake
+    ***
+    White Wine: Analivia (D.O. Rueda)*
+    Red Wine: Raimat Clamor (D.O. Costers del Segre)*
+    Mineral Waters
+    *1 bottle of wine each 3 guests
+    Coffee, decaffeinated, teas and herb teas
+
+    Rates per peron: 54€ VAT inc
+    
+<hr>
+
+### Menu Pepe
+
+    TO SHARE
+    Fresh sausage dices with white beans from Santa Pau
+    Vermicelli noodle paella with squid and allioli  (garlic sauce)
+    Homemade chicken croquettes
+    Roasted vegetables (pepper and aubergine)
+    Spanish omelette with onions and potato
+    Padrón peppers with Maldon salt
+    ***
+    Toasted flat bread with tomato and olive oil
+    ***
+    MAIN COURSE TO CHOOSE IN ADVANCE
+    Suckling pig knuckle cooked at low temperature with rosemary scented potatoes
+    or
+    Salmon suprême with lemon sauce and sauteed apples with caramel
+    ***
+    Black forest chocolate cake
+    ***
+    White Wine: Analivia (D.O. Rueda)*
+    Red Wine: Raimat Clamor (D.O. Costers del Segre)*
+    Mineral Waters
+    *1 bottle of wine each 3 guests
+    Coffee, decaffeinated, teas and herb teas
+
+    Rates per peron: 57€ VAT inc
+    
+<hr>
+
+### Menu Ocas
+
+    Fish and sellfish cannelloni with crayfish sauce 
+    ***
+    Toasted flat bread with tomato and olive oil
+    ***
+    Melting veal roasted with mashed potato and truffle
+    ***
+    Crunchy chocolate
+    ***
+    White Wine: Analivia (D.O. Rueda)*
+    Red Wine: Raimat Clamor (D.O. Costers del Segre)*
+    Mineral Waters
+    *1 bottle of wine each 3 guests
+    Coffee, decaffeinated, teas and herb teas
+
+    Rates per peron: 59€ VAT inc
+    
+<hr>
+
+
+# September 19th - Alba Granados
+
+<iframe src="Alba Granados/AlbaGranados.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
+
+## 🍽 Menu Options {.tabset .tabset-fade}
+
+### Classic Menu
+
+    * to share*
+    Our classic scrambled eggs with potatoes
+    Alba's croquettes made of iberian ham D.O. Guijuelo
+    Fried eggplants with honey "allioli"
+    Russian salad
+    
+    *Main course*
+    Tender Veal with potato parmentier and caramelizes apple
+    or
+    Grilled baby squids with "allioli" and santa pau beans
+    
+    *Desserts*
+    Chocolate brownie with vanilla ice cream
+    or 
+    Mandarin sorbet
+    
+    Viña Pomal Crianza Magnum D.O Rioja
+    Anima de Raimat Blanco Magnum D.O Costers del Segre
+    Mineral water
+    coffee or tea
+
+    Rates per peron: 49€ VAT inc
+    
+<hr>
+
+### Alba Menu
+
+    * to share*
+    Rocket Lettuce salad with pear, parmesan cheese and dates
+    Our classic scrambles eggs with potatoes
+    Alba's croquettes made of iberian ham D.O. Guijuelo
+    Rock mussels cooked over coal and white wine
+    Coca bread with escalibada and smaked sardine
+    
+    *Main course*
+    Truffled cannelloni of roasted chicjen and beef
+    or
+    Grilled croakker with potato, butter and kale
+    
+    *Desserts*
+    Catalan crwam with dry candied fruits 
+    or 
+    Pineapple carpaccio with orange marmalade
+    
+    Viña Pomal Crianza Magnum D.O Rioja
+    Anima de Raimat Blanco Magnum D.O Costers del Segre
+    Mineral water
+    coffee or tea
+
+    Rates per peron: 56,50€ VAT inc
+    
+<hr>
+
+
+# 🚌 Transfer Rates
 
     * 50 seater bus transfer from Airport to Hotel Barceló Sants (from 8.00h to 20.00h): 215€ VAT inc
     * 50 seaters bus at disposal for dinner: 440€ VAT inc
 
-## Terms & Conditions
+<hr>
+
+# ☑ Terms & Conditions
 
   * Rates valid for 2019.
   
@@ -145,8 +296,7 @@ Mirabé haswonderful city views, Julivert Meu and Can Travi Nou is one of the be
   * Cutting Edge Events management fee including in the detailed rates
   
   * VAT included. 
-  
-  * No reservation has been done.
+ 
   
 *****
 
