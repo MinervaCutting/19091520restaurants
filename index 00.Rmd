@@ -1,0 +1,239 @@
+---
+title: "RESTAURANT PROPOSAL 🍷🍽"
+author: "BUSINESS TRAVEL"
+date: 'From September 15th to 20th, 2019'
+output:
+ 
+  html_document:
+    css: FORMATO.css
+    highlight: textmate
+    theme: cosmo
+    toc: yes
+    toc_float: yes
+---
+
+<script> 
+    $(document).ready(function() { 
+    $head = $('#header'); 
+    $head.prepend('<A href = https://www.cuttingedge-events.com><img src ="LOGO.png" width="150" vspace="50" align="right"></A>') 
+    }); 
+</script> 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE)
+```
+
+
+```{r libraries}
+library(readxl)
+library(dplyr)
+library(knitr)
+library(timevis)
+
+```
+
+<br>
+<br>
+<br>
+
+
+# September 16th - Cal Pinxo 
+
+<iframe src="Cal Pinxo Palau de Mar/CalPinxo.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
+
+## 🍽 Menu Options {.tabset .tabset-fade}
+
+### Menu Atarazanas
+
+    Crunchy aubergine with cane honey and soy
+    
+            Starters for share:
+    Anchovies in Vinegar
+    Seafood croquettes.
+    Our Spanish potato salad
+    Salmon tartar with trout caviar and shitake
+    Baby fried shrimps
+    Catalan tomato bread.
+    -
+    Rice of red shrimp with “fumet” stock
+    -
+    Catalan crème brûlée
+    -
+    White wine Freye (D.O. Penedès)
+    Red Wine Viña Real (D.O. Rioja)
+    Solán de Cabras water
+    Nespresso coffee or tea
+    Bread 
+    
+    Rates per peron: 52€ VAT inc
+    
+<hr>
+
+### Menu Pescadores
+
+    Welcome glass of cava, with potato, yucca and sweet potato chips
+    
+                    Starters for share:
+    ”Esqueixada” cod salad with black olives
+    ”Escalivada “cold roasted pepper, onion and aubergine salad over flat bread
+    Cod fritters
+    Seafood croquettes.
+    Marinière Mussels casserole with tomato and white wine
+    -
+    Marinière Style rice Paella 
+    or
+    Noodles Paella with clams 
+    or
+    Black rice with squid ink and “all i oli” mayonnaise
+    -
+    Catalan crème brûlée 
+    or
+    Chocolate Brownie with vanilla ice cream 
+    or
+    Fruits skewer
+    -
+    White wine Barbara Forés (D.O. Terra Alta)
+    Red wine Lobo Lover (D.O. Penedés (ECO)
+    Water Solán de Cabras, Nespresso coffee or tea, Bread 
+    
+    Rates per peron: 60€ VAT inc (they can choose the main course on spot)
+    
+<hr>
+
+# September 17th - Taller de Tapas Rambla Catalunya
+
+<iframe src="Can Travi Nou/CanTraviNou.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
+
+
+## Menu 
+
+
+
+
+
+
+
+# September 18th - Can Travi Nou
+
+<iframe src="Can Travi Nou/CanTraviNou.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
+
+
+## Menu Pepe
+
+    TO SHARE
+    Fresh sausage dices with white beans from Santa Pau
+    Vermicelli noodle paella with squid and allioli  (garlic sauce)
+    Homemade chicken croquettes
+    Roasted vegetables (pepper and aubergine)
+    Spanish omelette with onions and potato
+    Padrón peppers with Maldon salt
+    ***
+    Toasted flat bread with tomato and olive oil
+    ***
+    MAIN COURSE TO CHOOSE 
+    Suckling pig knuckle cooked at low temperature with rosemary scented potatoes
+    or
+    Salmon suprême with lemon sauce and sauteed apples with caramel
+    ***
+    Black forest chocolate cake
+    ***
+    White Wine: Analivia (D.O. Rueda)*
+    Red Wine: Raimat Clamor (D.O. Costers del Segre)*
+    Mineral Waters
+    *1 bottle of wine each 3 guests
+    Coffee, decaffeinated, teas and herb teas
+
+    Rates per peron: 57€ VAT inc -they can choose main in the restaurant -
+    
+<hr>
+
+
+
+# September 19th - Alba Granados
+
+<iframe src="Alba Granados/AlbaGranados.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
+
+## 🍽 Menu Options {.tabset .tabset-fade}
+
+### Classic Menu
+
+    * to share*
+    Our classic scrambled eggs with potatoes
+    Alba's croquettes made of iberian ham D.O. Guijuelo
+    Fried eggplants with honey "allioli"
+    Russian salad
+    
+    *Main course*
+    Tender Veal with potato parmentier and caramelizes apple
+    or
+    Grilled baby squids with "allioli" and santa pau beans
+    
+    *Desserts*
+    Chocolate brownie with vanilla ice cream
+    or 
+    Mandarin sorbet
+    
+    Viña Pomal Crianza Magnum D.O Rioja
+    Anima de Raimat Blanco Magnum D.O Costers del Segre
+    Mineral water
+    coffee or tea
+
+    Rates per peron: 49€ VAT inc -they can choose main and dessert in the restaurant -
+    
+<hr>
+
+### Alba Menu
+
+    * to share*
+    Rocket Lettuce salad with pear, parmesan cheese and dates
+    Our classic scrambles eggs with potatoes
+    Alba's croquettes made of iberian ham D.O. Guijuelo
+    Rock mussels cooked over coal and white wine
+    Coca bread with escalibada and smaked sardine
+    
+    *Main course*
+    Truffled cannelloni of roasted chicjen and beef
+    or
+    Grilled croakker with potato, butter and kale
+    
+    *Desserts*
+    Catalan crwam with dry candied fruits 
+    or 
+    Pineapple carpaccio with orange marmalade
+    
+    Viña Pomal Crianza Magnum D.O Rioja
+    Anima de Raimat Blanco Magnum D.O Costers del Segre
+    Mineral water
+    coffee or tea
+
+    Rates per peron: 56,50€ VAT inc -they can choose main and dessert in the restaurant -
+    
+<hr>
+
+
+# 🚌 Transfer Rates
+
+    * 50 seater bus transfer from Airport to Hotel Barceló Sants (from 8.00h to 20.00h): 215€ VAT inc
+    * 50 seaters bus at disposal for dinner: 440€ VAT inc
+
+<hr>
+
+# ☑ Terms & Conditions
+
+  * Rates valid for 2019.
+  
+  * Net rates for Business Travel
+  
+  * For a group of minimum 30 pax.
+  
+  * Cutting Edge Events management fee including in the detailed rates
+  
+  * VAT included. 
+ 
+  
+*****
+
+
+
+
+

@@ -36,137 +36,198 @@ library(timevis)
 <br>
 <br>
 
+# Map
 
-# September 16th - Cal Pinxo 
+<iframe src="https://www.google.com/maps/d/embed?mid=1heyEGf89HtoStiweVys6KHCxItP__4UR&hl=es" width="100%" height="550"></iframe>
+
+<br>
+<br>
+
+
+# September 16th - 20.00h  - Cal Pinxo 
 
 <iframe src="Cal Pinxo Palau de Mar/CalPinxo.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
 
-## 🍽 Menu Options {.tabset .tabset-fade}
 
-### Menu Atarazanas
+### Customized menu
 
-    Crunchy aubergine with cane honey and soy
-    
-            Starters for share:
-    Anchovies in Vinegar
-    Seafood croquettes.
-    Our Spanish potato salad
-    Salmon tartar with trout caviar and shitake
-    Baby fried shrimps
-    Catalan tomato bread.
+    Welcome glass of cava
     -
-    Rice of red shrimp with “fumet” stock
+    *Starters to share*
+    "Esqueixada" ( tomato salad with onion and cod fish)
+    Toasted bread with charcoal grilled pepper and aubergine and salty anchovie from Cantabrico
+    Cod fish fritters
+    Sea-food croquettes
+    Mussels with tomato and white wine sauce
     -
+    *Main course to choose*
+    Rice with white prawn fumet
+    or
+    Grilled Entrecote
+    -
+    Fruit skewer
+    or
     Catalan crème brûlée
     -
-    White wine Freye (D.O. Penedès)
-    Red Wine Viña Real (D.O. Rioja)
+    White wine Barbara Fores (D.O Terra alta)
+    Red Wine Lobo Lover (D.O Penedes (ECO))
     Solán de Cabras water
     Nespresso coffee or tea
     Bread 
     
-    Rates per peron: 52€ VAT inc
+    Rates per peron: 55€ VAT inc
     
-<hr>
 
-### Menu Pescadores
 
-    Welcome glass of cava, with potato, yucca and sweet potato chips
-    
-                    Starters for share:
-    ”Esqueixada” cod salad with black olives
-    ”Escalivada “cold roasted pepper, onion and aubergine salad over flat bread
-    Cod fritters
-    Seafood croquettes.
-    Marinière Mussels casserole with tomato and white wine
-    -
-    Marinière Style rice Paella 
-    or
-    Noodles Paella with clams 
-    or
-    Black rice with squid ink and “all i oli” mayonnaise
-    -
-    Catalan crème brûlée 
-    or
-    Chocolate Brownie with vanilla ice cream 
-    or
-    Fruits skewer
-    -
-    White wine Barbara Forés (D.O. Terra Alta)
-    Red wine Lobo Lover (D.O. Penedés (ECO)
-    Water Solán de Cabras, Nespresso coffee or tea, Bread 
-    
-    Rates per peron: 60€ VAT inc (they can choose the main course on spot)
-    
-<hr>
+# September 17th - 20.00h - Taller de Tapas Rambla Catalunya
 
-# September 17th - Mirabé
+<iframe src="TALLER DE TAPAS/Taller de Tapas.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
 
-<iframe src="Mirabe/Mirabe.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
 
 ## 🍽 Menu Options {.tabset .tabset-fade}
 
-### Menu 1
+### MENU TALLER 
 
-    Beet and cottage cheese tart
-    
-    Timbale of roasted vegetables with red pepper sauce and kalamata olive oil.
-    
-    Hake loin confit at low temperature with fried artichokes, romesco sauce and green Mojo.
-    
-    Yogur mousse with red fruit and caramelized nuts
-    
-    Wine, beer, soft drinks and coffees.
+    TO SHARE
+    Toasted coca bread rubbed with tomato and extra virgin olive oil
+    Cured best Jabugo ham “Juan Manuel” D.O. Guijuelo
+    Selection of Spanish cheeses with quince jelly
+    Oven roasted red pepper, onion and aubergine with Cantabrian anchovies
+    Homemade hummus with pita bread
+    &
+    Crispy aubergine with honey and lime
+    Homemade Jabugo ham croquettes
+    “Patatas bravas” with garlic mayonnaise and spicy sauce
+    &
+    Sautéed chickpeas, fresh spinach and Iberian pancetta
+    Grilled green asparagus with cherry tomato and a walnut dressing
+    &
+    Grilled farmhouse sausage with Santa Pau White beans
+    Grilled squid with lemon dressing
+    Grilled chicken kebab marinated with herbs and spices
 
-    Rates per peron: 53€ VAT inc
-    
-<hr>
+    DESSERTS
+    Catalan crème brûlée
+    Almond tart with cinnamon ice-cream
 
-### Menu 2
-
-    Smoked salmon roll with avocado and pineapple.
+    CELLER
+    White wine: Parató (D.O. Penedès)
+    Red wine: Finca Renardes (D.O. Penedès)
+    Mineral water
+    Coffee or tea
     
-    Vegetable ravioli and goat cheese with creamy pesto sauce
-    
-    Lean pork fillet with caramelized onion, roast potatoes and spinach
-    
-    Catalan creme brulee with almond biscuit
-    
-    Wine, beer, soft drinks and coffees.
+    Rates per person: 43€ VAT inc
 
-    Rates per peron: 53€ VAT inc
+### MENU DEL PI
+
+    TO SHARE
+    Toasted coca bread rubbed with tomato and extra virgin olive oil
+    Cured best Jabugo ham “Juan Manuel” D.O. Guijuelo
+    Rocket salad with Nuri´s goat cheese, quince jelly and toasted almonds
+    Homemade hummus with pita bread
+    &
+    Crispy aubergine with honey and lime
+    Andalusian style fried squid with lime mayonnaise
+    Homemade Jabugo ham croquettes
+    “Patatas bravas” with garlic mayonnaise and spicy sauce
+    &
+    Pan-steamed mussels with Mediterranean herbs
+    Grilled green asparagus with cherry tomato and a walnut dressing
+    Sautéed wild seasonal mushrooms
+    Majorcan sobrasada sausage omelette topped with garlic mayonnaise
+    Chicken wings with garlic, lemon and chilli
+    &
+    Grilled prawns with extra virgin olive oil and Maldon salt
+    Grilled best sirloin steak with garlic thyme and chilli
+
+    DESSERTS
+    Catalan crème brûlée
+    Dark and White chocolate mousse
+
+    DRINKS
+    White wine: Afortunado (D.O. Rueda)
+    Red wine: Basagoiti, crianza (D.O. Rioja)
+    Mineral water
+    Coffee or tea
     
-<hr>
+    Rates per person: 47,50€ VAT inc
+
+### MENU STA MARIA
+
+    TO SHARE
+    Toasted coca bread rubbed with tomato and extra virgin olive oil
+    Cured best Jabugo ham “Juan Manuel” D.O. Guijuelo
+    Rocket salad with Nuri´s goat cheese, quince jelly and toasted almonds
+    Homemade hummus with pita bread
+    Langoustines with tartar sauce
+    &
+    Crispy aubergine with honey and lime
+    Homemade Jabugo ham croquettes
+    “Patatas bravas” with garlic mayonnaise and spicy sauce
+    &
+    Pan-steamed mussels with Mediterranean herbs
+    Grilled green asparagus with cherry tomato and a walnut dressing
+    Galician style octopus with smoked paprika and extra virgin olive oil
+    Grilled squids and prawns with garlic dressing
+    &
+    Grilled special Iberian pork fillet “secreto” with mojo sauce
+    Grilled tuna from Boquería market with avocado tomato and basil
+    
+    DESSERTS
+    Catalan crème brûlée
+    Dark and White chocolate mousse
+    
+    DRINKS
+    White wine: Afortunado (D.O. Rueda)
+    Red wine: Basagoiti, crianza (D.O. Rioja)
+    Mineral water
+    Coffee
+    
+    Rates per person: 50€ VAT inc
+
+### MENU BORN
+
+    TO SHARE
+    Toasted coca bread rubbed with tomato and extra virgin olive oil
+    Cured best Jabugo ham “Juan Manuel” D.O. Guijuelo
+    Oven roasted red pepper, onion and aubergine with Cantabrian anchovies
+    Langoustines with tartar sauce
+    Homemade hummus with pita bread
+    &
+    Fried and crispy artichoke hearts with romesco sauce
+    Fried battered cod with mango tartar
+    Homemade Jabugo ham croquettes
+    “Patatas bravas” with garlic mayonnaise and spicy sauce
+    &
+    Majorca sobrasada sausage omelette topped with garlic mayonnaise
+    Sizzling prawns cooked in a pot with garlic, chilli and mountain herbs
+    Galician style octopus with smoked paprika and extra virgin olive oil
+    &
+    Grilled special Iberian pork fillet “secreto” with mojo sauce
+    Grilled tuna from Boquería market with avocado tomato and basil
+    Mini beef burger with caramelized red onion and brie cheese
+    
+    DESSERT
+    Catalan crème brûlée
+    Dark and White chocolate mousse
+    
+    DRINKS
+    White wine: Marqués Alella (D.O. Alella)
+    Red wine: Basagoiti, crianza (D.O. Rioja)
+    Cava Parató Brut
+    Mineral water
+    Coffee
+
+    Rates per person: 62,50€ VAT inc
 
 
 
-# September 18th - Can Travi Nou
+# September 18th - 20.00h - Can Travi Nou
 
 <iframe src="Can Travi Nou/CanTraviNou.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
 
-## 🍽 Menu Options {.tabset .tabset-fade}
 
-### Menu de l'Avia
-
-    Fideuá, noodle paella with squid, mussels and prawns with alioli
-    ***
-    Toasted flat bread with tomato and olive oil
-    ***
-    Suckling pig knuckle cooked at low temperature with rosemary scented potatoes
-    ***
-    Black forest chocolate cake
-    ***
-    White Wine: Analivia (D.O. Rueda)*
-    Red Wine: Raimat Clamor (D.O. Costers del Segre)*
-    Mineral Waters
-    *1 bottle of wine each 3 guests
-    Coffee, decaffeinated, teas and herb teas
-
-    Rates per peron: 54€ VAT inc
-    
-<hr>
-
-### Menu Pepe
+## Menu Pepe
 
     TO SHARE
     Fresh sausage dices with white beans from Santa Pau
@@ -178,7 +239,7 @@ library(timevis)
     ***
     Toasted flat bread with tomato and olive oil
     ***
-    MAIN COURSE TO CHOOSE IN ADVANCE
+    MAIN COURSE TO CHOOSE 
     Suckling pig knuckle cooked at low temperature with rosemary scented potatoes
     or
     Salmon suprême with lemon sauce and sauteed apples with caramel
@@ -191,32 +252,13 @@ library(timevis)
     *1 bottle of wine each 3 guests
     Coffee, decaffeinated, teas and herb teas
 
-    Rates per peron: 57€ VAT inc
-    
-<hr>
-
-### Menu Ocas
-
-    Fish and sellfish cannelloni with crayfish sauce 
-    ***
-    Toasted flat bread with tomato and olive oil
-    ***
-    Melting veal roasted with mashed potato and truffle
-    ***
-    Crunchy chocolate
-    ***
-    White Wine: Analivia (D.O. Rueda)*
-    Red Wine: Raimat Clamor (D.O. Costers del Segre)*
-    Mineral Waters
-    *1 bottle of wine each 3 guests
-    Coffee, decaffeinated, teas and herb teas
-
-    Rates per peron: 59€ VAT inc
+    Rates per peron: 57€ VAT inc -they can choose main in the restaurant -
     
 <hr>
 
 
-# September 19th - Alba Granados
+
+# September 19th - 20.00h - Alba Granados
 
 <iframe src="Alba Granados/AlbaGranados.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
 
@@ -245,7 +287,7 @@ library(timevis)
     Mineral water
     coffee or tea
 
-    Rates per peron: 49€ VAT inc
+    Rates per peron: 49€ VAT inc -they can choose main and dessert in the restaurant -
     
 <hr>
 
@@ -273,7 +315,7 @@ library(timevis)
     Mineral water
     coffee or tea
 
-    Rates per peron: 56,50€ VAT inc
+    Rates per peron: 56,50€ VAT inc -they can choose main and dessert in the restaurant -
     
 <hr>
 
